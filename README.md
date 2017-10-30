@@ -5,6 +5,7 @@ Coursera Deep Learning Course by deeplearning.ai projects
 2. Week2 - Neural Networks Basics
 3. Week3 - Shallow neural networks
 4. Week4 - Deep Neural Networks
+
 - Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 1. Week1 - Practical aspects of Deep Learning
          - Setting up your Machine Learning Application
@@ -12,6 +13,7 @@ Coursera Deep Learning Course by deeplearning.ai projects
          - Setting up your optimization problem
 2. Week2 - Optimization algorithms
 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
+
 - Course3. Structuring Machine Learning Projects
 1. Week1 - Introduction to ML Strategy
          - Setting up your goal
@@ -21,5 +23,8 @@ Coursera Deep Learning Course by deeplearning.ai projects
          - Mismatched training and dev/test set
          - Learning from multiple tasks
          - End-to-end deep learning
+         
+ - Course4. Convolutional Neural Networks
+ - Course5. Sequence Models
 
 
