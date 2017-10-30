@@ -12,4 +12,14 @@ Coursera Deep Learning Course by deeplearning.ai projects
          - Setting up your optimization problem
 2. Week2 - Optimization algorithms
 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
+- Course3. Structuring Machine Learning Projects
+1. Week1 - Introduction to ML Strategy
+         - Setting up your goal
+         - Comparing to human-level performance
+2. Week2 - ML Strategy (2)
+         - Error Analysis
+         - Mismatched training and dev/test set
+         - Learning from multiple tasks
+         - End-to-end deep learning
+
 
