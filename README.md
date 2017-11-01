@@ -1,6 +1,7 @@
 # Deep Learning - deeplearning.ai
 Coursera Deep Learning Course by deeplearning.ai projects 
-- Course 1. Neural Networks and Deep Learning
+
+ - Course 1. Neural Networks and Deep Learning
 1. Week1 - Introduction to deep learning
 2. Week2 - Neural Networks Basics
 3. Week3 - Shallow neural networks
@@ -14,7 +15,7 @@ Coursera Deep Learning Course by deeplearning.ai projects
 2. Week2 - Optimization algorithms
 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
-- Course3. Structuring Machine Learning Projects
+- Course 3. Structuring Machine Learning Projects
 1. Week1 - Introduction to ML Strategy
          - Setting up your goal
          - Comparing to human-level performance
@@ -24,7 +25,8 @@ Coursera Deep Learning Course by deeplearning.ai projects
          - Learning from multiple tasks
          - End-to-end deep learning
          
- - Course4. Convolutional Neural Networks
- - Course5. Sequence Models
+ - Course 4. Convolutional Neural Networks
+ 
+ - Course 5. Sequence Models
 
 
