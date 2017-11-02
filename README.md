@@ -26,6 +26,10 @@ Coursera Deep Learning Course by deeplearning.ai projects
          - End-to-end deep learning
          
  ## Course 4. Convolutional Neural Networks
+ 1. Week1 - Foundations of Convolutional Neural Networks
+ 2. Week2 - Deep convolutional models: case studies
+ 3. Week3 - Object detection
+ 4. Week4 - Special applications: Face recognition & Neural style transfer
  
  ## Course 5. Sequence Models
 
