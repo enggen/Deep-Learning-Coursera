@@ -8,11 +8,11 @@ Coursera Deep Learning Course by deeplearning.ai projects
 4. Week4 - [Deep Neural Networks](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning)
 
 ## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
-1. Week1 - Practical aspects of Deep Learning
+1. Week1 - [Practical aspects of Deep Learning](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
          - Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
-2. Week2 - Optimization algorithms
+2. Week2 - [Optimization algorithms](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 ## Course 3. Structuring Machine Learning Projects
