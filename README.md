@@ -1,5 +1,7 @@
 # Deep Learning Specialization on Coursera
-Coursera Deep Learning Course by deeplearning.ai projects 
+### Master Deep Learning, and Break into AI
+
+Instructor: [Andrew Ng from DeepLearning.ai]()
 
  ## Course 1. Neural Networks and Deep Learning
 1. Week1 - Introduction to deep learning
