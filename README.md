@@ -1,5 +1,5 @@
 # Deep Learning Specialization on Coursera
-### Master Deep Learning, and Break into AI
+### [Master Deep Learning, and Break into AI](https://www.coursera.org/specializations/deep-learning)
 
 Instructor: [Andrew Ng from DeepLearning.ai]()
 
