@@ -18,7 +18,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 ## Course 3. Structuring Machine Learning Projects
-1. Week1 - Introduction to ML Strategy
+1. Week1 - [Introduction to ML Strategy](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
          - Setting up your goal
          - Comparing to human-level performance
 2. Week2 - ML Strategy (2)
