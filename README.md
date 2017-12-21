@@ -19,7 +19,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 2. Week2 - [Optimization algorithms](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 
-## Course 3. Structuring Machine Learning Projects
+## Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/N93WVYYZCTKY)
 1. Week1 - [Introduction to ML Strategy](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
          - Setting up your goal
          - Comparing to human-level performance
@@ -29,7 +29,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
          - Learning from multiple tasks
          - End-to-end deep learning
          
- ## Course 4. Convolutional Neural Networks
+ ## Course 4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/JUNLNK96JBAP)
  1. Week1 - [Foundations of Convolutional Neural Networks]()
  2. Week2 - [Deep convolutional models: case studies]() - Papers for read:  [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
