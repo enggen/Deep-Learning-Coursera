@@ -44,7 +44,7 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  ## Course 5. Sequence Models 
  1. Week1 - [Recurrent Neural Networks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week1)
  2. Week2 - [Natural Language Processing & Word Embeddings](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week2)
- 3. Week3 - Sequence models & Attention mechanism
+ 3. Week3 - [Sequence models & Attention mechanism]()
  
  
  
