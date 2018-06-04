@@ -48,7 +48,5 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  
 <p align="center"> *************************************************************************************************************************************</p>
 
-<p align="center">![alt text](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/images/keep-calm-because-it-s-all-done.jpg)</p>
-
-<div style="text-align:center"><img src ="https://github.com/enggen/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/images/keep-calm-because-it-s-all-done.jpg" /></div>
+<div align="center"><img src ="https://github.com/enggen/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/images/keep-calm-because-it-s-all-done.jpg" /></div>
 
