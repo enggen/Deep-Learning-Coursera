@@ -46,10 +46,9 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  2. Week2 - [Natural Language Processing & Word Embeddings](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week2)
  3. Week3 - [Sequence models & Attention mechanism](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week3)
  
- <p align="center">
-  <img />
-</p>
- ### <p align="center"> ***************************************************************************************************************************************</p>
+<p align="center"> *************************************************************************************************************************************</p>
 
 <p align="center">![alt text](https://github.com/enggen/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/images/keep-calm-because-it-s-all-done.jpg)</p>
+
+<div style="text-align:center"><img src ="https://github.com/enggen/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/images/keep-calm-because-it-s-all-done.jpg" /></div>
 
