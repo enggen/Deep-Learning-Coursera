@@ -80,16 +80,16 @@ There are concerns that some people may use the content here to quickly ace the 
   
  - Course 4: Convolutional Neural Networks
 
-  - [Week 1 Quiz - Basics of ConvNets](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week1/Week%201%20Quiz%20-%20The%20basics%20of%20ConvNets.md)
-  - [Week 2 Quiz - Deep Convoltuion Models](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week2/ResNets/Week%202%20Quiz%20-%20Deep%20convolutional%20models.md)
-  - [Week 3 Quiz - Detection Algorithms](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week3/Car%20detection%20for%20Autonomous%20Driving/Week%203%20Quiz%20-%20Detection%20algorithms.md)
-  - [Week 4 Quiz - Face Recognition & Neural Style Transfer](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week4/Week%204%20Quiz%20-%20Face%20recognition%20%26%20Neural%20style%20transfer.md)
+   - [Week 1 Quiz - Basics of ConvNets](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week1/Week%201%20Quiz%20-%20The%20basics%20of%20ConvNets.md)
+   - [Week 2 Quiz - Deep Convoltuion Models](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week2/ResNets/Week%202%20Quiz%20-%20Deep%20convolutional%20models.md)
+   - [Week 3 Quiz - Detection Algorithms](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week3/Car%20detection%20for%20Autonomous%20Driving/Week%203%20Quiz%20-%20Detection%20algorithms.md)
+   - [Week 4 Quiz - Face Recognition & Neural Style Transfer](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/Week4/Week%204%20Quiz%20-%20Face%20recognition%20%26%20Neural%20style%20transfer.md)
   
   - Course 5: Sequence Models
 
-  - [Week 1 Quiz - Recurrent Neural Networks](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week1/Week%201%20Quiz%20-%20Recurrent%20Neural%20Networks.md)
-  - [Week 2 Quiz - Natural Language Processing & Word Embeddings](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week2/Week%202%20Quiz%20-%20Natural%20Language%20Processing%20%26%20Word%20Embeddings.md)
-  - [Week 3 Quiz - Sequence Models & Attention Mechanisms](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Week%203%20Quiz%20-%20Sequence%20models%20%26%20Attention%20mechanism.md)
+    - [Week 1 Quiz - Recurrent Neural Networks](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week1/Week%201%20Quiz%20-%20Recurrent%20Neural%20Networks.md)
+    - [Week 2 Quiz - Natural Language Processing & Word Embeddings](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week2/Week%202%20Quiz%20-%20Natural%20Language%20Processing%20%26%20Word%20Embeddings.md)
+    - [Week 3 Quiz - Sequence Models & Attention Mechanisms](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Week%203%20Quiz%20-%20Sequence%20models%20%26%20Attention%20mechanism.md)
   
   
-## Thank You !   
+# Thank You !   
