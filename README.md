@@ -2,7 +2,7 @@
 ### Master Deep Learning, and Break into AI
 Instructor: [Andrew Ng, DeepLearning.ai]()
 
-## Introductioon
+## Introduction
 This repo contains all of the updated latest version of Programming Assignments, Quizes for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 
 ![Car Detection](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Convolutional%20Neural%20Networks/car-detection.jpg)    
