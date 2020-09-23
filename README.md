@@ -13,6 +13,8 @@ This is quite a fantastic course and it has everything equipped in it for you to
  
 Below are Programming Assignments and Quiz for every course in the specialisation
 
+You can watch course videos by Deeplearning.ai Youtube Channel for free [here](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) 
+
 If you are struck or wanted some guidance I am more than happy to help [Contact Me](https://prateeshreddy007.wixsite.com/mysite/contact) 
 
 Here are some [Notes](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Notes/Notes.pdf) and [PPT](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Notes/Notes%20(brief)%20PPT.pdf) which will make you understand concepts better and go back to revise them any time you want.
