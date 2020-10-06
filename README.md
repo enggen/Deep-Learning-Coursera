@@ -10,14 +10,14 @@ This repo contains all of the updated latest version of Programming Assignments,
 ## What I want to say 
 This is quite a fantastic course and it has everything equipped in it for you to start your deep learning knowledge as a beginner and pave the path for advanced level. This Repo is only supposed to help you in this journey
 **ONLY FOR EDUCATIONAL PURPOSES ONLY!**
- 
+
 Below are Programming Assignments and Quiz for every course in the specialisation
 
 You can watch course videos by Deeplearning.ai Youtube Channel for free [here](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) 
 
 If you are struck or wanted some guidance I am more than happy to help [Contact Me](https://prateeshreddy007.wixsite.com/mysite/contact) 
 
-Here are some [Notes](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Notes/Notes.pdf) and [PPT](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Notes/Notes%20(brief)%20PPT.pdf) which will make you understand concepts better and go back to revise them any time you want.
+Here are some [Notes](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Notes/Notes.pdf) and a brief [PPT](https://github.com/prateeshreddy/Deep-Learning-Coursera/blob/master/Notes/Notes%20(brief)%20PPT.pdf) which will make you understand concepts better and go back to revise them any time you want.
 
 ## Programming Assignments
 
@@ -61,7 +61,7 @@ Here are some [Notes](https://github.com/prateeshreddy/Deep-Learning-Coursera/bl
   
 ## Quiz Solutions
 
-There are concerns that some people may use the content here to quickly ace the course. I wanted to tell you that you can attempt it as many times you like and you will never grab the concepts if you just try to have good score (Remember knowledge is far important than some certificate to achieve you dreams) instead use this key with explanation as a last resort if you dont understand why you are wrong. 
+There are concerns that some people may use the content here to quickly ace the course. I wanted to tell you that you can attempt it as many times you like and you will never grab the concepts if you just try to have good score which doesn't even reflect anywhere (Remember knowledge is far important than some certificate to achieve you dreams) instead **use this key with explanation as a last resort if you dont understand why you are wrong.** 
 
 - Course 1: Neural Networks and Deep Learning
 
